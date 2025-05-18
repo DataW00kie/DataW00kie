@@ -9,7 +9,7 @@
 - <b>Security+CE
 
 <h2>👨‍💻 Education (complied with/CW & currently attending/CA):</h2>
--<b>CyberNow SOC Analyst NOW! (CA)</b>
+- <b>CyberNow SOC Analyst NOW! (CA)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
